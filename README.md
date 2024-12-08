@@ -9,9 +9,9 @@ Exection in Windows powershell:
 
 Sample images:
 
-![image info](./img/pic1)
+![image info](./img/pic1.jpg)
 
-![image info](./img/pic2)
+![image info](./img/pic2.jpg)
 
 Helpful tutorial series: https://www.youtube.com/watch?v=oTWnV5su3m0
 
