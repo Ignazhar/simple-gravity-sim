@@ -1,18 +1,28 @@
 # simple-gravity-sim
-Simple gravity simulation using SFML library
+Simple gravity simulation using C++ and SFML library.
 
-Compliation in Windows powershell:
-```mingw32-make```
+### Windows Powershell execution:
 
-Exection in Windows powershell:
-```./main.exe```
+Enter the src directory:
 
-Sample images:
+```PS ...> cd src```
+
+Compile:
+
+```PS ...> mingw32-make```
+
+Execute:
+
+```PS ...> ./main.exe```
+
+### Sample images:
 
 ![image info](./img/pic1.jpg)
 
 ![image info](./img/pic2.jpg)
 
-Helpful tutorial series: https://www.youtube.com/watch?v=oTWnV5su3m0
+
+### Helpful tutorial series:
+https://www.youtube.com/watch?v=oTWnV5su3m0
 
 \[Project created in October 2024\]
